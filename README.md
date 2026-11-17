@@ -241,6 +241,17 @@ Password: Sweety@123
 ![Reading](screenshorts/readings.png)
 
 
+### Assumptions
+- All glucose readings are stored in mg/dL.
+- Each user can access only their own glucose readings.
+- A maximum of four readings can be added per day.
+- Each reading is associated with a date and time slot.
 
+### Future Improvements
+- Add charts to visualize blood glucose trends.
+- Add password reset functionality.
+- Improve mobile responsiveness.
+- Add more frontend and backend tests.
+- Add reminders for recording glucose readings.
 
 
